@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Hugo7650.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-08T04:11:12.947Z</updated>
+    <updated>2021-11-08T04:27:17.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[KVM SSD Plus LA Flash Sale (Virtual Private Servers | WISHOSTING)]]></title>
         <id>https://Hugo7650.github.io/feeds/all.xml</id>
         <link href="https://Hugo7650.github.io/feeds/all.xml"/>
-        <updated>2021-11-08T04:11:11.476Z</updated>
-        <content type="html"><![CDATA[Starting at]]></content>
+        <updated>2021-11-08T04:27:16.777Z</updated>
+        <content type="html"><![CDATA[<div class="package-name panel-heading">
+                                        <h4>KVM SSD Plus LA Flash Sale</h4>
+                                    </div>
+                                    <div class="price-box">
+                                        <p>Starting at</p>
+                                        <h4>$19.99</h4>
+                                    </div>
+                                                                            <p>8 vCPU cores Intel Xeon E5-2680v2</p>
+
+<p>Unlimited CPU cores 3.1GHz Turbo</p>
+
+<p>32GB ECC RAM</p>
+
+<p>100GB SSD</p>
+
+<p>Linux/Windows OS</p>
+
+<p>Bandwidth 250Mbps</p>
+
+<p>Traffic 8TB</p>
+
+<p>1 IPv4</p>
+
+<p>Private networking</p>
+
+<p>Location - Los Angeles</p>
+
+<p>Setup time up to 24 hours</p>
+                                                                        <div class="order selected-btn">
+                                        <button type="button" class="btn btn-success btn-lg btn-block">Selected</button>
+                                    </div>
+                                    <div class="order unselected-btn">
+                                        <button type="button" class="btn btn-default btn-lg btn-block">Select</button>
+                                    </div>]]></content>
     </entry>
 </feed>
