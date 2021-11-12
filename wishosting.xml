@@ -2,40 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
     <title>Virtual Private Servers | WISHOSTING</title>
-    <updated>2021-11-10T17:39:02.179Z</updated>
+    <updated>2021-11-12T05:35:05.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wishosting.com/order/main/packages/VPS/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[V-Dedicated Avoton Flash Sale]]></title>
+        <title type="html"><![CDATA[KVM SSD Special Deal]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-10T17:39:01.217Z</updated>
+        <updated>2021-11-12T05:35:04.631Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
-                                        <h4>V-Dedicated Avoton Flash Sale</h4>
+                                        <h4>KVM SSD Special Deal</h4>
                                     </div>
                                     <div class="price-box">
                                         <p>Starting at</p>
-                                        <h4>$6.99</h4>
+                                        <h4>$4.99</h4>
                                     </div>
-                                                                            <p>2 CPU cores Avoton C2350</p>
+                                                                            <p>1 vCPU core Xeon E5 1630v3</p>
 
-<p>Dedicated CPU cores 2GHz Turbo</p>
+<p>Unlimited CPU core 3.8GHz Turbo</p>
 
-<p>3GB RAM</p>
+<p>6GB ECC RAM</p>
 
-<p>800GB HDD</p>
+<p>100GB SSD</p>
 
 <p>Linux/Windows OS</p>
 
-<p>Unmetered traffic</p>
-
-<p>250 Mbps bandwidth</p>
+<p>Unmetered 250Mbps&nbsp;bandwidth</p>
 
 <p>1 IPv4</p>
 
-<p>Location - Netherlands</p>
+<p>Private networking</p>
 
-<p>Setup time up to 48&nbsp;hours</p>
+<p>DDoS protection</p>
+
+<p>Location - France</p>
+
+<p>Setup time up to 24 hours</p>
                                                                         <div class="order selected-btn">
                                         <button type="button" class="btn btn-success btn-lg btn-block">Selected</button>
                                     </div>
@@ -44,36 +46,36 @@
                                     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KVM SSD Plus LA Flash Sale]]></title>
+        <title type="html"><![CDATA[KVM HDD 11.11.21]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-10T17:39:01.218Z</updated>
+        <updated>2021-11-12T05:35:04.632Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
-                                        <h4>KVM SSD Plus LA Flash Sale</h4>
+                                        <h4>KVM HDD 11.11.21</h4>
                                     </div>
                                     <div class="price-box">
                                         <p>Starting at</p>
-                                        <h4>$19.99</h4>
+                                        <h4>$5.99</h4>
                                     </div>
-                                                                            <p>8 vCPU cores Intel Xeon E5-2680v2</p>
+                                                                            <p>2 vCPU cores Xeon E5 2660</p>
 
-<p>Unlimited CPU cores 3.1GHz Turbo</p>
+<p>Unlimited CPU cores 2.7GHz Turbo</p>
 
-<p>32GB ECC RAM</p>
+<p>4GB ECC RAM</p>
 
-<p>100GB SSD</p>
+<p>200GB HDD RAID-5 (SSD boost)</p>
 
 <p>Linux/Windows OS</p>
 
-<p>Bandwidth 250Mbps</p>
-
-<p>Traffic 8TB</p>
+<p>Unmetered 250Mbps bandwidth</p>
 
 <p>1 IPv4</p>
 
 <p>Private networking</p>
 
-<p>Location - Los Angeles</p>
+<p>DDoS protection</p>
+
+<p>Location - Oregon or Virginia, USA</p>
 
 <p>Setup time up to 24 hours</p>
                                                                         <div class="order selected-btn">
