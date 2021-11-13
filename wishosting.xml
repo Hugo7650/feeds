@@ -2,40 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
     <title>Virtual Private Servers | WISHOSTING</title>
-    <updated>2021-11-12T17:41:17.518Z</updated>
+    <updated>2021-11-13T05:33:03.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wishosting.com/order/main/packages/VPS/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[KVM NAT Storage Flash Sale]]></title>
+        <title type="html"><![CDATA[V-Dedicated i5  Special Deal]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-12T17:41:16.495Z</updated>
+        <updated>2021-11-13T05:33:02.705Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
-                                        <h4>KVM NAT Storage Flash Sale</h4>
+                                        <h4>V-Dedicated i5  Special Deal</h4>
                                     </div>
                                     <div class="price-box">
                                         <p>Starting at</p>
-                                        <h4>$6.99</h4>
+                                        <h4>$17.99</h4>
                                     </div>
-                                                                            <p>1 vCPU core&nbsp;E5-1650V2</p>
+                                                                            <p>4 CPU cores i5-2400</p>
 
-<p>Unlimited CPU core 3.6GHz Turbo</p>
+<p>Dedicated CPU cores 3.1GHz</p>
 
-<p>2GB ECC RAM</p>
+<p>15GB RAM</p>
 
-<p>1800GB&nbsp;HDD RAID-5</p>
+<p>1800GB HDD</p>
 
 <p>Linux/Windows OS</p>
 
-<p>Bandwidth 250Mbps</p>
+<p>Unmetered 100Mbps bandwidth</p>
 
-<p>Unmetered Traffic</p>
-
-<p>1 IPv4 NAT</p>
+<p>1 IPv4</p>
 
 <p>DDoS protection</p>
 
-<p>Location - Germany</p>
+<p>Location - France</p>
 
 <p>Setup time up to 24 hours</p>
                                                                         <div class="order selected-btn">
@@ -49,7 +47,7 @@
         <title type="html"><![CDATA[V-Dedicated i3 CA Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-12T17:41:16.497Z</updated>
+        <updated>2021-11-13T05:33:02.707Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>V-Dedicated i3 CA Flash Sale</h4>
                                     </div>
