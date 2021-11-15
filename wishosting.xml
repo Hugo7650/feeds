@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
     <title>Virtual Private Servers | WISHOSTING</title>
-    <updated>2021-11-15T05:33:46.998Z</updated>
+    <updated>2021-11-15T17:43:10.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wishosting.com/order/main/packages/VPS/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[V-Dedicated i3 CA Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-15T05:33:46.057Z</updated>
+        <updated>2021-11-15T17:43:09.742Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>V-Dedicated i3 CA Flash Sale</h4>
                                     </div>
@@ -47,7 +47,7 @@
         <title type="html"><![CDATA[KVM SSD Plus LA Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-15T05:33:46.062Z</updated>
+        <updated>2021-11-15T17:43:09.746Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>KVM SSD Plus LA Flash Sale</h4>
                                     </div>
@@ -76,11 +76,8 @@
 <p>Location - Los Angeles</p>
 
 <p>Setup time up to 24 hours</p>
-                                                                        <div class="order selected-btn">
-                                        <button type="button" class="btn btn-success btn-lg btn-block">Selected</button>
-                                    </div>
-                                    <div class="order unselected-btn">
-                                        <button type="button" class="btn btn-default btn-lg btn-block">Select</button>
+                                                                        <div class="order sold-btn">
+                                        <div disabled="disabled" class="btn btn-danger btn-lg btn-block">Out of Stock</div>
                                     </div>]]></content>
     </entry>
 </feed>
