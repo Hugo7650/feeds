@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
     <title>Virtual Private Servers | WISHOSTING</title>
-    <updated>2021-11-20T17:40:01.613Z</updated>
+    <updated>2021-11-21T05:34:18.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wishosting.com/order/main/packages/VPS/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[KVM NAT Storage Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-20T17:40:00.025Z</updated>
+        <updated>2021-11-21T05:34:17.046Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>KVM NAT Storage Flash Sale</h4>
                                     </div>
@@ -36,6 +36,46 @@
 <p>DDoS protection</p>
 
 <p>Location - Germany</p>
+
+<p>Setup time up to 24 hours</p>
+                                                                        <div class="order selected-btn">
+                                        <button type="button" class="btn btn-success btn-lg btn-block">Selected</button>
+                                    </div>
+                                    <div class="order unselected-btn">
+                                        <button type="button" class="btn btn-default btn-lg btn-block">Select</button>
+                                    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KVM SSD Plus LA Flash Sale]]></title>
+        <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
+        <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
+        <updated>2021-11-21T05:34:17.048Z</updated>
+        <content type="html"><![CDATA[<div class="package-name panel-heading">
+                                        <h4>KVM SSD Plus LA Flash Sale</h4>
+                                    </div>
+                                    <div class="price-box">
+                                        <p>Starting at</p>
+                                        <h4>$19.99</h4>
+                                    </div>
+                                                                            <p>8 vCPU cores Intel Xeon E5-2680v2</p>
+
+<p>Unlimited CPU cores 3.1GHz Turbo</p>
+
+<p>32GB ECC RAM</p>
+
+<p>100GB SSD</p>
+
+<p>Linux/Windows OS</p>
+
+<p>Bandwidth 250Mbps</p>
+
+<p>Traffic 8TB</p>
+
+<p>1 IPv4</p>
+
+<p>Private networking</p>
+
+<p>Location - Los Angeles</p>
 
 <p>Setup time up to 24 hours</p>
                                                                         <div class="order selected-btn">
