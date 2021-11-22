@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
     <title>Virtual Private Servers | WISHOSTING</title>
-    <updated>2021-11-22T05:33:43.999Z</updated>
+    <updated>2021-11-22T17:42:55.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wishosting.com/order/main/packages/VPS/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[KVM SSD NVMe Plus]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-22T05:33:43.001Z</updated>
+        <updated>2021-11-22T17:42:54.037Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>KVM SSD NVMe Plus</h4>
                                     </div>
@@ -46,7 +46,7 @@
         <title type="html"><![CDATA[KVM SSD Plus LA Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-22T05:33:43.003Z</updated>
+        <updated>2021-11-22T17:42:54.037Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>KVM SSD Plus LA Flash Sale</h4>
                                     </div>
