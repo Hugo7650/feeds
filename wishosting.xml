@@ -2,51 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
     <title>Virtual Private Servers | WISHOSTING</title>
-    <updated>2021-11-22T17:42:55.147Z</updated>
+    <updated>2021-11-24T05:33:39.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wishosting.com/order/main/packages/VPS/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[KVM SSD NVMe Plus]]></title>
+        <title type="html"><![CDATA[KVM Storage CA Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-22T17:42:54.037Z</updated>
+        <updated>2021-11-24T05:33:39.166Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
-                                        <h4>KVM SSD NVMe Plus</h4>
+                                        <h4>KVM Storage CA Flash Sale</h4>
                                     </div>
                                     <div class="price-box">
                                         <p>Starting at</p>
-                                        <h4>$11.99</h4>
+                                        <h4>$7.99</h4>
                                     </div>
-                                                                            <p>4 vCPU cores Ryzen 9 5950X</p>
+                                                                            <p>1 vCPU core Xeon D-1520</p>
 
-<p>Unlimited CPU cores 3.7GHz Turbo</p>
+<p>Unlimited CPU core 2.4GHz</p>
 
-<p>8GB ECC RAM</p>
+<p>1GB RAM</p>
 
-<p>500GB SSD NVMe</p>
+<p>1800GB HDD RAID-5</p>
 
 <p>Linux/Windows OS</p>
 
-<p>Unmetered 250Mbps&nbsp;bandwidth</p>
+<p>Bandwidth 500Mbps</p>
+
+<p>Unmetered Traffic</p>
 
 <p>1 IPv4</p>
 
-<p>Private networking</p>
-
 <p>DDoS protection</p>
 
-<p>Location - France</p>
+<p>Location - Canada</p>
 
-<p>Setup time up to 72 hours</p>
-                                                                        <div class="order sold-btn">
-                                        <div disabled="disabled" class="btn btn-danger btn-lg btn-block">Out of Stock</div>
+<p>Setup time up to 24 hours</p>
+                                                                        <div class="order selected-btn">
+                                        <button type="button" class="btn btn-success btn-lg btn-block">Selected</button>
+                                    </div>
+                                    <div class="order unselected-btn">
+                                        <button type="button" class="btn btn-default btn-lg btn-block">Select</button>
                                     </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KVM SSD Plus LA Flash Sale]]></title>
         <id>https://www.wishosting.com/order/main/packages/VPS/?group_id=7</id>
         <link href="https://www.wishosting.com/order/main/packages/VPS/?group_id=7"/>
-        <updated>2021-11-22T17:42:54.037Z</updated>
+        <updated>2021-11-24T05:33:39.167Z</updated>
         <content type="html"><![CDATA[<div class="package-name panel-heading">
                                         <h4>KVM SSD Plus LA Flash Sale</h4>
                                     </div>
